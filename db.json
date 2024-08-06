@@ -26,12 +26,12 @@
         "msg": "React is a JavaScript library that offers new syntax while still being powered by JavaScript, making it faster and easier to create web applications due to its declarative and component-based nature.Originally designed by Facebook to enhance performance and maintenance for their internal use, it's now an open-source project with a vast community of the frontend developers, and is among the most popular JS tools."
       },
       {
-        "id": "",
+        "id": "8",
         "title": "Angular",
         "msg": "Angular is a full-fledged JavaScript-based frontend framework supported by Google, and the modularity and component-based approach it provides have garnered a strong community among frontend developers worldwide.Its simplicity makes this framework perfect for single-page applications, and though some developers say that it's a bit harder to learn Angular than React, it's definitely worth it as there is a high demand in the market for experts in this technology, with Angular developers demand showing predicted growth of approximately 31% between 2016 and 2026.t"
       },
       {
-        "id": "",
+        "id": "9",
         "title": "Vue",
         "msg": "Vue is considered one of the best frontend options for single-page web applications, and is a JavaScript framework designed for creating user interfaces that provides a declarative and component-based programming experience, similar to React and Angular, with millions of weekly downloads on npm, demonstrating its popularity in the market."
       }
